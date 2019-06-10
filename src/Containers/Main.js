@@ -6,14 +6,13 @@ import ScrollableTabView, {
 import ButtonAnimation from "../Components/ButtonAnimation";
 import ImageAnimation from "../Components/ImageAnimation";
 import BlurImage from "../Components/BlurImage";
+import HalfImageBlur from "../Components/HalfImageBlur";
+
 type Props = {};
 export default class Main extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <View style={styles.header}>
-          <Text style={styles.headerText}>Animations</Text>
-        </View>
         <View style={styles.container}>
           <ScrollableTabView
             initialPage={0}
@@ -29,6 +28,9 @@ export default class Main extends Component<Props> {
             </View>
             <View tabLabel="Blur Images">
               <BlurImage />
+            </View>
+            <View tabLabel="Half Blur Images">
+              <HalfImageBlur />
             </View>
           </ScrollableTabView>
         </View>

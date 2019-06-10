@@ -1,4 +1,4 @@
-#Fri May 03 18:02:22 IST 2019
+#Tue Jun 04 12:46:35 IST 2019
 base.0=/Users/stellent/Documents/Live Projects/SampleAnimations/android/app/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

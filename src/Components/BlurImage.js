@@ -60,11 +60,11 @@ export default class BlurImage extends Component<Props> {
                   style={styles.image}
                   source={{ uri: res.photo.uri }}
                   resizeMode="cover"
-                  blurRadius={key === 0 ? 1 : key === 1 ? 3 : key === 2 ? 5 : 7}
+                  blurRadius={key === 0 ? 1 : key === 1 ? 2 : key === 2 ? 3 : 4}
                 />
                 <Text style={{ marginTop: 5, fontSize: 18, fontWeight: "600" }}>
                   Image-Blur Radius:
-                  {key === 0 ? 1 : key === 1 ? 3 : key === 2 ? 5 : 7}
+                  {key === 0 ? 1 : key === 1 ? 2 : key === 2 ? 3 : 4}
                 </Text>
               </View>
             );

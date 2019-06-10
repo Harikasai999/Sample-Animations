@@ -1,12 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-blur-overlay] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-blur-overlay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-video/android-exoplayer/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-youtube] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-youtube/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_blur] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.5] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/a1b3a649adaf6ae4beee13d0b2466809/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/38e1e4c185140b038d5fcfb0e61084e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-2.9.3.aar/8c29d9fdf74f5f3ffe76bfcbd19e9f49/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/74f27ffcfeda45236eb36ff700c85c65/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c1364294fd572f96884735b57de68d10/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a7cc46a280797867dd9ae90e7ed10477/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d5ac00bf94de9c30ec3f8f7596b83ad3/AndroidManifest.xml:17:1-22:12
@@ -21,8 +27,14 @@ MERGED from [com.android.support:customview:28.0.0] /Users/stellent/.gradle/cach
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/223c7ba394d15bc94c1a0512e3f2f8a2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9e9bc91ada0f54e1facf397749717f56/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/extension-okhttp-2.9.3.aar/1c9b84d3677a0faadb625db4229730b0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8515578c2fe98148a9f8a2d78d0ecf78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.3.aar/ded5e8a7a01165b2e9b1575a9ea7d41f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.3.aar/6ae9f4d63637fa0b5035e62660276990/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.3.aar/58281b7ce6b35618b5e7a7aecbbff14c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.9.3.aar/6c694be901a1f85f056ca85d801c09c7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/729bcd8c5f970e32cca3c62f862e5b18/AndroidManifest.xml:17:1-26:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/90aa327eb80c5896fa3d2aca60d55842/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/453187e607647557abfd840eb0e12375/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ed44d4d26fce5b69acf5a919025ed176/AndroidManifest.xml:17:1-22:12
@@ -32,27 +44,27 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellent/.gradle/cach
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/443d5cc06af368996711fb3bae2674ae/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/344caf7c1c9f1cc0c8c4012de56e0ecb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/63a3da08d1d95158eb8983d268bcecc7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c4100f341435baa3d9d5c37dd6cbc86b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e33e8aae4e4fb0a55323db3c623c6778/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f66625e46a7ef1764ea5e2a05f874853/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f52eb15d07027c37c164043559e3e395/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a8f0951993a6f77ba85def2456605984/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6716aa3e02f9663b72cb78e64ef2c95a/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
 	package
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:2:3-33
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:1-27:12
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -61,7 +73,7 @@ ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/
 	android:name
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:6:5-24:19
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from [com.facebook.react:react-native:0.59.5] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/a1b3a649adaf6ae4beee13d0b2466809/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.5] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/a1b3a649adaf6ae4beee13d0b2466809/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:22:5-94
@@ -85,7 +97,9 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellent/.gradle/cache
 	android:name
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.sampleanimations.MainActivity
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:screenOrientation
+		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:18:9-45
 	android:label
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
@@ -95,29 +109,41 @@ ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/
 	android:name
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml:24:17-81
 uses-sdk
 INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-blur-overlay] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-blur-overlay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-blur-overlay] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-blur-overlay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-video/android-exoplayer/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-video/android-exoplayer/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-youtube/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-youtube/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_blur] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_blur] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/stellent/Documents/Live Projects/SampleAnimations/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.5] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/a1b3a649adaf6ae4beee13d0b2466809/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.5] /Users/stellent/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/a1b3a649adaf6ae4beee13d0b2466809/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/38e1e4c185140b038d5fcfb0e61084e8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/38e1e4c185140b038d5fcfb0e61084e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-2.9.3.aar/8c29d9fdf74f5f3ffe76bfcbd19e9f49/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-2.9.3.aar/8c29d9fdf74f5f3ffe76bfcbd19e9f49/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/74f27ffcfeda45236eb36ff700c85c65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/74f27ffcfeda45236eb36ff700c85c65/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c1364294fd572f96884735b57de68d10/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c1364294fd572f96884735b57de68d10/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a7cc46a280797867dd9ae90e7ed10477/AndroidManifest.xml:20:5-44
@@ -146,10 +172,22 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellent/.gr
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9e9bc91ada0f54e1facf397749717f56/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c1e7b54b6537117858ef23acbfc692b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/extension-okhttp-2.9.3.aar/1c9b84d3677a0faadb625db4229730b0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/extension-okhttp-2.9.3.aar/1c9b84d3677a0faadb625db4229730b0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/80b0ecdf8114cdc6b13e9d9637d7b3de/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8515578c2fe98148a9f8a2d78d0ecf78/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8515578c2fe98148a9f8a2d78d0ecf78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.3.aar/ded5e8a7a01165b2e9b1575a9ea7d41f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.3.aar/ded5e8a7a01165b2e9b1575a9ea7d41f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.3.aar/6ae9f4d63637fa0b5035e62660276990/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.3.aar/6ae9f4d63637fa0b5035e62660276990/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.3.aar/58281b7ce6b35618b5e7a7aecbbff14c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.3.aar/58281b7ce6b35618b5e7a7aecbbff14c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.9.3.aar/6c694be901a1f85f056ca85d801c09c7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.9.3.aar/6c694be901a1f85f056ca85d801c09c7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/729bcd8c5f970e32cca3c62f862e5b18/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/729bcd8c5f970e32cca3c62f862e5b18/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/90aa327eb80c5896fa3d2aca60d55842/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/90aa327eb80c5896fa3d2aca60d55842/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/453187e607647557abfd840eb0e12375/AndroidManifest.xml:20:5-44
@@ -168,10 +206,10 @@ MERGED from [android.arch.core:runtime:1.1.1] /Users/stellent/.gradle/caches/tra
 MERGED from [android.arch.core:runtime:1.1.1] /Users/stellent/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/344caf7c1c9f1cc0c8c4012de56e0ecb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/63a3da08d1d95158eb8983d268bcecc7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:interpolator:28.0.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/63a3da08d1d95158eb8983d268bcecc7/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c4100f341435baa3d9d5c37dd6cbc86b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c4100f341435baa3d9d5c37dd6cbc86b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/a0d7127d9feaeecc41d5c79cf101567b/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e33e8aae4e4fb0a55323db3c623c6778/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e33e8aae4e4fb0a55323db3c623c6778/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellent/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f66625e46a7ef1764ea5e2a05f874853/AndroidManifest.xml:5:5-7:41
@@ -192,3 +230,7 @@ INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/a
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/stellent/Documents/Live Projects/SampleAnimations/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/729bcd8c5f970e32cca3c62f862e5b18/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/stellent/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/729bcd8c5f970e32cca3c62f862e5b18/AndroidManifest.xml:24:22-76

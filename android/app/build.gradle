@@ -102,6 +102,8 @@ android {
     }
 
     defaultConfig {
+        renderscriptTargetApi 23
+        renderscriptSupportModeEnabled true
         applicationId "com.sampleanimations"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
@@ -149,6 +151,10 @@ android {
 }
 
 dependencies {
+    implementation project(':react-native-blur-overlay')
+    implementation project(':react-native-video')
+    implementation project(':react-native-youtube')
+    implementation project(':@react-native-community_blur')
     implementation project(':react-native-vector-icons')
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
